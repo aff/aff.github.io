@@ -1,3 +1,3 @@
-Marketing domain for Andreas Faafeng's apps.
+Marketing domain for Andreas F apps.
 
 Copyright affapps (2025).
